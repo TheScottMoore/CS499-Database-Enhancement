@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\biskr\OneDrive\Desktop\Animal_Shelter\build\CMakeFiles\bfe9d7eff871dc30a5ee53ba7a366bf0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88455695-A9F2-36BE-B19A-B404DAB05D89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

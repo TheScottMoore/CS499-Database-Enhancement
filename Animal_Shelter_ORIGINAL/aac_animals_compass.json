@@ -1,0 +1,1072 @@
+[{
+  "_id": {
+    "$oid": "697fa58106a231d80d045065"
+  },
+  "animal_id": "A100000",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "White",
+  "date_of_birth": "2016-09-30",
+  "age_upon_outcome_in_weeks": 285,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "SCRP",
+  "name": "Luna",
+  "datetime": "2021-09-25T12:00:00Z",
+  "location_lat": 30.015891,
+  "location_long": -97.853152
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045066"
+  },
+  "animal_id": "A100001",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "Calico",
+  "date_of_birth": "2022-01-11",
+  "age_upon_outcome_in_weeks": 207,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "SCRP",
+  "name": "Sadie",
+  "datetime": "2020-02-14T12:00:00Z",
+  "location_lat": 30.404715,
+  "location_long": -97.896751
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045067"
+  },
+  "animal_id": "A100002",
+  "animal_type": "Cat",
+  "breed": "Maine Coon Mix",
+  "color": "Tan",
+  "date_of_birth": "2017-02-12",
+  "age_upon_outcome_in_weeks": 352,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "",
+  "name": "Charlie",
+  "datetime": "2021-04-06T12:00:00Z",
+  "location_lat": 30.048358,
+  "location_long": -97.476253
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045068"
+  },
+  "animal_id": "A100003",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "Calico",
+  "date_of_birth": "2020-01-06",
+  "age_upon_outcome_in_weeks": 474,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SCRP",
+  "name": "Max",
+  "datetime": "2021-01-21T12:00:00Z",
+  "location_lat": 30.288676,
+  "location_long": -97.547714
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045069"
+  },
+  "animal_id": "A100004",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "Brown",
+  "date_of_birth": "2014-11-23",
+  "age_upon_outcome_in_weeks": 300,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SNR",
+  "name": "Luna",
+  "datetime": "2024-02-17T12:00:00Z",
+  "location_lat": 30.417055,
+  "location_long": -97.818673
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506a"
+  },
+  "animal_id": "A100005",
+  "animal_type": "Dog",
+  "breed": "Border Collie",
+  "color": "White",
+  "date_of_birth": "2020-10-31",
+  "age_upon_outcome_in_weeks": 77,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Foster",
+  "name": "Sadie",
+  "datetime": "2022-03-09T12:00:00Z",
+  "location_lat": 30.189728,
+  "location_long": -97.405238
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506b"
+  },
+  "animal_id": "A100006",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "Tan",
+  "date_of_birth": "2023-06-15",
+  "age_upon_outcome_in_weeks": 336,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SNR",
+  "name": "Bella",
+  "datetime": "2020-01-02T12:00:00Z",
+  "location_lat": 30.033094,
+  "location_long": -97.443432
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506c"
+  },
+  "animal_id": "A100007",
+  "animal_type": "Dog",
+  "breed": "Siberian Husky",
+  "color": "Calico",
+  "date_of_birth": "2021-05-08",
+  "age_upon_outcome_in_weeks": 221,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "name": "Daisy",
+  "datetime": "2018-07-26T12:00:00Z",
+  "location_lat": 30.123314,
+  "location_long": -97.619316
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506d"
+  },
+  "animal_id": "A100008",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "White",
+  "date_of_birth": "2018-01-22",
+  "age_upon_outcome_in_weeks": 412,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "",
+  "name": "Luna",
+  "datetime": "2025-06-23T12:00:00Z",
+  "location_lat": 30.023558,
+  "location_long": -97.845175
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506e"
+  },
+  "animal_id": "A100009",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Tricolor",
+  "date_of_birth": "2018-04-26",
+  "age_upon_outcome_in_weeks": 69,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SCRP",
+  "name": "Milo",
+  "datetime": "2017-02-17T12:00:00Z",
+  "location_lat": 30.340142,
+  "location_long": -97.842724
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04506f"
+  },
+  "animal_id": "A100010",
+  "animal_type": "Cat",
+  "breed": "Siamese Mix",
+  "color": "Calico",
+  "date_of_birth": "2015-04-02",
+  "age_upon_outcome_in_weeks": 352,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "",
+  "name": "Lucy",
+  "datetime": "2025-02-05T12:00:00Z",
+  "location_lat": 30.437926,
+  "location_long": -97.768305
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045070"
+  },
+  "animal_id": "A100011",
+  "animal_type": "Dog",
+  "breed": "Golden Retriever",
+  "color": "Gray",
+  "date_of_birth": "2023-10-06",
+  "age_upon_outcome_in_weeks": 112,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Foster",
+  "name": "Sadie",
+  "datetime": "2021-03-12T12:00:00Z",
+  "location_lat": 30.381255,
+  "location_long": -97.63031
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045071"
+  },
+  "animal_id": "A100012",
+  "animal_type": "Cat",
+  "breed": "Domestic Longhair",
+  "color": "Tricolor",
+  "date_of_birth": "2020-09-19",
+  "age_upon_outcome_in_weeks": 4,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "Offsite",
+  "name": "Cooper",
+  "datetime": "2020-06-13T12:00:00Z",
+  "location_lat": 30.119726,
+  "location_long": -97.779564
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045072"
+  },
+  "animal_id": "A100013",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Brown",
+  "date_of_birth": "2022-03-17",
+  "age_upon_outcome_in_weeks": 91,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Foster",
+  "name": "Daisy",
+  "datetime": "2024-05-26T12:00:00Z",
+  "location_lat": 30.237641,
+  "location_long": -97.625098
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045073"
+  },
+  "animal_id": "A100014",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Tan",
+  "date_of_birth": "2024-06-01",
+  "age_upon_outcome_in_weeks": 220,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "Offsite",
+  "name": "Buddy",
+  "datetime": "2021-11-30T12:00:00Z",
+  "location_lat": 30.449807,
+  "location_long": -97.674257
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045074"
+  },
+  "animal_id": "A100015",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Tan",
+  "date_of_birth": "2014-03-28",
+  "age_upon_outcome_in_weeks": 350,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "name": "Rocky",
+  "datetime": "2017-10-18T12:00:00Z",
+  "location_lat": 30.35392,
+  "location_long": -97.870563
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045075"
+  },
+  "animal_id": "A100016",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "Tan",
+  "date_of_birth": "2014-10-18",
+  "age_upon_outcome_in_weeks": 342,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "Foster",
+  "name": "Buddy",
+  "datetime": "2023-01-18T12:00:00Z",
+  "location_lat": 30.066156,
+  "location_long": -97.432243
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045076"
+  },
+  "animal_id": "A100017",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Calico",
+  "date_of_birth": "2022-10-19",
+  "age_upon_outcome_in_weeks": 252,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "",
+  "name": "Daisy",
+  "datetime": "2024-05-23T12:00:00Z",
+  "location_lat": 30.215526,
+  "location_long": -97.688211
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045077"
+  },
+  "animal_id": "A100018",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "Brindle",
+  "date_of_birth": "2014-09-06",
+  "age_upon_outcome_in_weeks": 104,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Foster",
+  "name": "Milo",
+  "datetime": "2019-02-19T12:00:00Z",
+  "location_lat": 30.268143,
+  "location_long": -97.829909
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045078"
+  },
+  "animal_id": "A100019",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Tricolor",
+  "date_of_birth": "2023-10-22",
+  "age_upon_outcome_in_weeks": 259,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "",
+  "name": "Max",
+  "datetime": "2024-04-25T12:00:00Z",
+  "location_lat": 30.499641,
+  "location_long": -97.481986
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045079"
+  },
+  "animal_id": "A100020",
+  "animal_type": "Cat",
+  "breed": "Domestic Medium Hair",
+  "color": "Tricolor",
+  "date_of_birth": "2018-07-23",
+  "age_upon_outcome_in_weeks": 174,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "",
+  "name": "Daisy",
+  "datetime": "2018-11-06T12:00:00Z",
+  "location_lat": 30.189487,
+  "location_long": -97.407346
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507a"
+  },
+  "animal_id": "A100021",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Tricolor",
+  "date_of_birth": "2018-09-29",
+  "age_upon_outcome_in_weeks": 296,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "datetime": "2019-06-11T12:00:00Z",
+  "location_lat": 30.484355,
+  "location_long": -97.61041
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507b"
+  },
+  "animal_id": "A100022",
+  "animal_type": "Dog",
+  "breed": "Siberian Husky",
+  "color": "Tricolor",
+  "date_of_birth": "2014-07-25",
+  "age_upon_outcome_in_weeks": 62,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "name": "Rocky",
+  "datetime": "2022-09-12T12:00:00Z",
+  "location_lat": 30.040056,
+  "location_long": -97.807088
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507c"
+  },
+  "animal_id": "A100023",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "Tan",
+  "date_of_birth": "2015-05-07",
+  "age_upon_outcome_in_weeks": 417,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "SCRP",
+  "name": "Rocky",
+  "datetime": "2017-12-02T12:00:00Z",
+  "location_lat": 30.209612,
+  "location_long": -97.608164
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507d"
+  },
+  "animal_id": "A100024",
+  "animal_type": "Dog",
+  "breed": "Border Collie",
+  "color": "Brindle",
+  "date_of_birth": "2021-07-06",
+  "age_upon_outcome_in_weeks": 213,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SNR",
+  "datetime": "2018-06-21T12:00:00Z",
+  "location_lat": 30.335845,
+  "location_long": -97.750001
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507e"
+  },
+  "animal_id": "A100025",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Brown",
+  "date_of_birth": "2019-02-21",
+  "age_upon_outcome_in_weeks": 13,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "SCRP",
+  "name": "Rocky",
+  "datetime": "2019-12-23T12:00:00Z",
+  "location_lat": 30.066228,
+  "location_long": -97.725496
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04507f"
+  },
+  "animal_id": "A100026",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "Tricolor",
+  "date_of_birth": "2017-03-13",
+  "age_upon_outcome_in_weeks": 382,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SCRP",
+  "name": "Charlie",
+  "datetime": "2024-05-02T12:00:00Z",
+  "location_lat": 30.26447,
+  "location_long": -97.566068
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045080"
+  },
+  "animal_id": "A100027",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Brown",
+  "date_of_birth": "2016-12-19",
+  "age_upon_outcome_in_weeks": 141,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "name": "Max",
+  "datetime": "2020-02-29T12:00:00Z",
+  "location_lat": 30.302415,
+  "location_long": -97.541194
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045081"
+  },
+  "animal_id": "A100028",
+  "animal_type": "Dog",
+  "breed": "Border Collie",
+  "color": "Brown",
+  "date_of_birth": "2016-10-25",
+  "age_upon_outcome_in_weeks": 504,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "",
+  "name": "Bella",
+  "datetime": "2017-01-15T12:00:00Z",
+  "location_lat": 30.166778,
+  "location_long": -97.83459
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045082"
+  },
+  "animal_id": "A100029",
+  "animal_type": "Cat",
+  "breed": "Domestic Medium Hair",
+  "color": "Calico",
+  "date_of_birth": "2020-03-09",
+  "age_upon_outcome_in_weeks": 456,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "",
+  "datetime": "2017-11-05T12:00:00Z",
+  "location_lat": 30.472525,
+  "location_long": -97.55449
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045083"
+  },
+  "animal_id": "A100030",
+  "animal_type": "Dog",
+  "breed": "Labrador Retriever Mix",
+  "color": "White",
+  "date_of_birth": "2020-07-13",
+  "age_upon_outcome_in_weeks": 382,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "name": "Buddy",
+  "datetime": "2020-06-16T12:00:00Z",
+  "location_lat": 30.182326,
+  "location_long": -97.433456
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045084"
+  },
+  "animal_id": "A100031",
+  "animal_type": "Cat",
+  "breed": "Domestic Shorthair",
+  "color": "Tan",
+  "date_of_birth": "2016-05-10",
+  "age_upon_outcome_in_weeks": 370,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SCRP",
+  "name": "Sadie",
+  "datetime": "2021-07-23T12:00:00Z",
+  "location_lat": 30.486919,
+  "location_long": -97.525261
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045085"
+  },
+  "animal_id": "A100032",
+  "animal_type": "Cat",
+  "breed": "Domestic Medium Hair",
+  "color": "Calico",
+  "date_of_birth": "2024-12-12",
+  "age_upon_outcome_in_weeks": 170,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "name": "Charlie",
+  "datetime": "2025-10-10T12:00:00Z",
+  "location_lat": 30.465408,
+  "location_long": -97.498882
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045086"
+  },
+  "animal_id": "A100033",
+  "animal_type": "Cat",
+  "breed": "Domestic Medium Hair",
+  "color": "Brown",
+  "date_of_birth": "2015-10-15",
+  "age_upon_outcome_in_weeks": 277,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "SNR",
+  "datetime": "2019-07-01T12:00:00Z",
+  "location_lat": 30.099786,
+  "location_long": -97.440774
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045087"
+  },
+  "animal_id": "A100034",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "Tan",
+  "date_of_birth": "2014-04-07",
+  "age_upon_outcome_in_weeks": 232,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "Offsite",
+  "name": "Sadie",
+  "datetime": "2017-10-12T12:00:00Z",
+  "location_lat": 30.483445,
+  "location_long": -97.760438
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045088"
+  },
+  "animal_id": "A100035",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Brown",
+  "date_of_birth": "2024-07-14",
+  "age_upon_outcome_in_weeks": 343,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "SCRP",
+  "name": "Bella",
+  "datetime": "2019-12-24T12:00:00Z",
+  "location_lat": 30.019129,
+  "location_long": -97.601714
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045089"
+  },
+  "animal_id": "A100036",
+  "animal_type": "Dog",
+  "breed": "Siberian Husky",
+  "color": "Brown",
+  "date_of_birth": "2020-10-19",
+  "age_upon_outcome_in_weeks": 450,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "name": "Buddy",
+  "datetime": "2017-07-01T12:00:00Z",
+  "location_lat": 30.354393,
+  "location_long": -97.899154
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508a"
+  },
+  "animal_id": "A100037",
+  "animal_type": "Cat",
+  "breed": "Domestic Longhair",
+  "color": "Brown",
+  "date_of_birth": "2018-01-31",
+  "age_upon_outcome_in_weeks": 205,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "",
+  "name": "Milo",
+  "datetime": "2025-01-27T12:00:00Z",
+  "location_lat": 30.450023,
+  "location_long": -97.646439
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508b"
+  },
+  "animal_id": "A100038",
+  "animal_type": "Cat",
+  "breed": "Siamese Mix",
+  "color": "White",
+  "date_of_birth": "2021-10-26",
+  "age_upon_outcome_in_weeks": 416,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "SNR",
+  "name": "Lucy",
+  "datetime": "2024-08-06T12:00:00Z",
+  "location_lat": 30.374067,
+  "location_long": -97.812986
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508c"
+  },
+  "animal_id": "A100039",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Tan",
+  "date_of_birth": "2017-05-29",
+  "age_upon_outcome_in_weeks": 4,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SNR",
+  "name": "Lucy",
+  "datetime": "2021-12-15T12:00:00Z",
+  "location_lat": 30.22108,
+  "location_long": -97.793149
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508d"
+  },
+  "animal_id": "A100040",
+  "animal_type": "Dog",
+  "breed": "Golden Retriever",
+  "color": "Brindle",
+  "date_of_birth": "2017-03-08",
+  "age_upon_outcome_in_weeks": 90,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "Offsite",
+  "name": "Buddy",
+  "datetime": "2019-07-10T12:00:00Z",
+  "location_lat": 30.403281,
+  "location_long": -97.826323
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508e"
+  },
+  "animal_id": "A100041",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Tan",
+  "date_of_birth": "2019-02-09",
+  "age_upon_outcome_in_weeks": 78,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "SNR",
+  "name": "Milo",
+  "datetime": "2019-09-27T12:00:00Z",
+  "location_lat": 30.073786,
+  "location_long": -97.556189
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04508f"
+  },
+  "animal_id": "A100042",
+  "animal_type": "Cat",
+  "breed": "Domestic Shorthair",
+  "color": "Tricolor",
+  "date_of_birth": "2016-06-15",
+  "age_upon_outcome_in_weeks": 439,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "name": "Charlie",
+  "datetime": "2022-02-13T12:00:00Z",
+  "location_lat": 30.06667,
+  "location_long": -97.667678
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045090"
+  },
+  "animal_id": "A100043",
+  "animal_type": "Dog",
+  "breed": "Siberian Husky",
+  "color": "Calico",
+  "date_of_birth": "2020-11-14",
+  "age_upon_outcome_in_weeks": 457,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "Foster",
+  "datetime": "2025-05-05T12:00:00Z",
+  "location_lat": 30.430747,
+  "location_long": -97.674965
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045091"
+  },
+  "animal_id": "A100044",
+  "animal_type": "Cat",
+  "breed": "Siamese Mix",
+  "color": "Gray",
+  "date_of_birth": "2021-01-11",
+  "age_upon_outcome_in_weeks": 500,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "Offsite",
+  "name": "Luna",
+  "datetime": "2019-08-19T12:00:00Z",
+  "location_lat": 30.135858,
+  "location_long": -97.740145
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045092"
+  },
+  "animal_id": "A100045",
+  "animal_type": "Dog",
+  "breed": "Golden Retriever",
+  "color": "White",
+  "date_of_birth": "2016-08-05",
+  "age_upon_outcome_in_weeks": 158,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "SNR",
+  "name": "Milo",
+  "datetime": "2021-07-28T12:00:00Z",
+  "location_lat": 30.165441,
+  "location_long": -97.667038
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045093"
+  },
+  "animal_id": "A100046",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Black",
+  "date_of_birth": "2024-02-24",
+  "age_upon_outcome_in_weeks": 402,
+  "sex_upon_outcome": "Unknown",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "SNR",
+  "name": "Rocky",
+  "datetime": "2017-01-25T12:00:00Z",
+  "location_lat": 30.471371,
+  "location_long": -97.750694
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045094"
+  },
+  "animal_id": "A100047",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Gray",
+  "date_of_birth": "2019-06-23",
+  "age_upon_outcome_in_weeks": 229,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "",
+  "name": "Luna",
+  "datetime": "2021-05-12T12:00:00Z",
+  "location_lat": 30.168065,
+  "location_long": -97.560429
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045095"
+  },
+  "animal_id": "A100048",
+  "animal_type": "Dog",
+  "breed": "Golden Retriever",
+  "color": "Black",
+  "date_of_birth": "2024-04-24",
+  "age_upon_outcome_in_weeks": 482,
+  "sex_upon_outcome": "Spayed Female",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "",
+  "name": "Charlie",
+  "datetime": "2024-03-17T12:00:00Z",
+  "location_lat": 30.214306,
+  "location_long": -97.466574
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045096"
+  },
+  "animal_id": "A100049",
+  "animal_type": "Dog",
+  "breed": "Border Collie",
+  "color": "Tricolor",
+  "date_of_birth": "2017-09-02",
+  "age_upon_outcome_in_weeks": 392,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "SNR",
+  "name": "Luna",
+  "datetime": "2020-02-14T12:00:00Z",
+  "location_lat": 30.376005,
+  "location_long": -97.484038
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045097"
+  },
+  "animal_id": "A100050",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Black",
+  "date_of_birth": "2014-03-21",
+  "age_upon_outcome_in_weeks": 485,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "datetime": "2025-10-05T12:00:00Z",
+  "location_lat": 30.478643,
+  "location_long": -97.879871
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045098"
+  },
+  "animal_id": "A100051",
+  "animal_type": "Dog",
+  "breed": "Pit Bull Mix",
+  "color": "White",
+  "date_of_birth": "2023-05-31",
+  "age_upon_outcome_in_weeks": 208,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "SNR",
+  "name": "Bella",
+  "datetime": "2024-07-05T12:00:00Z",
+  "location_lat": 30.057195,
+  "location_long": -97.426121
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d045099"
+  },
+  "animal_id": "A100052",
+  "animal_type": "Dog",
+  "breed": "Border Collie",
+  "color": "Brown",
+  "date_of_birth": "2015-11-19",
+  "age_upon_outcome_in_weeks": 381,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Return to Owner",
+  "outcome_subtype": "",
+  "name": "Rocky",
+  "datetime": "2023-06-29T12:00:00Z",
+  "location_lat": 30.012839,
+  "location_long": -97.744021
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509a"
+  },
+  "animal_id": "A100053",
+  "animal_type": "Cat",
+  "breed": "Maine Coon Mix",
+  "color": "Tan",
+  "date_of_birth": "2024-07-23",
+  "age_upon_outcome_in_weeks": 410,
+  "sex_upon_outcome": "Intact Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "datetime": "2024-10-26T12:00:00Z",
+  "location_lat": 30.38624,
+  "location_long": -97.474853
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509b"
+  },
+  "animal_id": "A100054",
+  "animal_type": "Dog",
+  "breed": "German Shepherd",
+  "color": "Calico",
+  "date_of_birth": "2017-11-23",
+  "age_upon_outcome_in_weeks": 46,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Adoption",
+  "outcome_subtype": "SCRP",
+  "name": "Buddy",
+  "datetime": "2024-04-06T12:00:00Z",
+  "location_lat": 30.170616,
+  "location_long": -97.475212
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509c"
+  },
+  "animal_id": "A100055",
+  "animal_type": "Cat",
+  "breed": "Domestic Shorthair",
+  "color": "Tricolor",
+  "date_of_birth": "2024-10-10",
+  "age_upon_outcome_in_weeks": 447,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "Foster",
+  "name": "Cooper",
+  "datetime": "2025-03-25T12:00:00Z",
+  "location_lat": 30.260873,
+  "location_long": -97.574771
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509d"
+  },
+  "animal_id": "A100056",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Gray",
+  "date_of_birth": "2018-11-20",
+  "age_upon_outcome_in_weeks": 480,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "",
+  "datetime": "2020-02-17T12:00:00Z",
+  "location_lat": 30.440816,
+  "location_long": -97.778068
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509e"
+  },
+  "animal_id": "A100057",
+  "animal_type": "Dog",
+  "breed": "Chihuahua Shorthair",
+  "color": "Brindle",
+  "date_of_birth": "2014-04-28",
+  "age_upon_outcome_in_weeks": 348,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "Foster",
+  "name": "Daisy",
+  "datetime": "2020-12-24T12:00:00Z",
+  "location_lat": 30.398916,
+  "location_long": -97.729831
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d04509f"
+  },
+  "animal_id": "A100058",
+  "animal_type": "Cat",
+  "breed": "Siamese Mix",
+  "color": "Brown",
+  "date_of_birth": "2019-10-18",
+  "age_upon_outcome_in_weeks": 14,
+  "sex_upon_outcome": "Intact Female",
+  "outcome_type": "Euthanasia",
+  "outcome_subtype": "SNR",
+  "name": "Luna",
+  "datetime": "2023-03-25T12:00:00Z",
+  "location_lat": 30.379082,
+  "location_long": -97.554695
+},
+{
+  "_id": {
+    "$oid": "697fa58106a231d80d0450a0"
+  },
+  "animal_id": "A100059",
+  "animal_type": "Dog",
+  "breed": "Australian Cattle Dog",
+  "color": "Brown",
+  "date_of_birth": "2022-11-22",
+  "age_upon_outcome_in_weeks": 462,
+  "sex_upon_outcome": "Neutered Male",
+  "outcome_type": "Transfer",
+  "outcome_subtype": "SNR",
+  "name": "Bella",
+  "datetime": "2024-10-04T12:00:00Z",
+  "location_lat": 30.121653,
+  "location_long": -97.56802
+}]

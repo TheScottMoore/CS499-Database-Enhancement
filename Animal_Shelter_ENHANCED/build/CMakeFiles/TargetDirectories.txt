@@ -1,0 +1,3 @@
+C:/Users/biskr/OneDrive/Desktop/Animal_Shelter/build/CMakeFiles/EnhancedAnimalShelter.dir
+C:/Users/biskr/OneDrive/Desktop/Animal_Shelter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/biskr/OneDrive/Desktop/Animal_Shelter/build/CMakeFiles/ZERO_CHECK.dir
