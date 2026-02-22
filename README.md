@@ -13,4 +13,5 @@ Successful execution of data migration script
 
 
 Front-end dash displaying data from enhanced SQLite database post-migration.
-<img width="1264" height="890" alt="Screenshot 2026-02-07 171607" src="https://github.com/user-attachments/assets/76b79cde-4880-4fd3-902f-92ac1940a1e9" />
+<img width="1261" height="895" alt="image" src="https://github.com/user-attachments/assets/62f14b3b-8220-4476-835a-28eba4fe7e03" />
+
